@@ -1,4 +1,4 @@
-# Smart-Task
+# Duck-Task
 
 Se planejar não precisa ser complicado!
 
